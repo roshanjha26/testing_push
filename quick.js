@@ -35,7 +35,6 @@ function quickSort(arr, low, high) {
 let arr = [10, 7, 8, 9, 1, 5];
 let N = arr.length;
 
-// Function call
 quickSort(arr, 0, N - 1);
 console.log("Sorted array:");
 console.log(arr.join(" "));
