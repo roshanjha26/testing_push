@@ -1,4 +1,3 @@
-// Javascript program for implementation of selection sort
 function swap(arr, xp, yp) {
   var temp = arr[xp];
   arr[xp] = arr[yp];

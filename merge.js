@@ -67,7 +67,6 @@ function mergeSort(arr, l, r) {
   merge(arr, l, m, r);
 }
 
-// Function to print an array
 function printArray(A, size) {
   for (var i = 0; i < size; i++) console.log(A[i] + " ");
 }
